@@ -1,17 +1,21 @@
-# Exercise-04c-Enemies
+# Project Name
+Project 4 - FoodieLand
+My project consists of a 2D platofrmer with worlds inspired by candy and food. 
 
 ## Implementation
-
+1. Mutliple levels
+2. Different sprites
+3. Music
+4. Particles (coins)
+5. Wall-jumping
+6. 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+Kenney Pixel Platformer Food Expansion
+Kenney Pixel Platformer Farm Expansion
+Sons from Youtube
 
 ## Future Development
+Improve monster's behavior
 
 ## Created by
 Shelia Hernandez
